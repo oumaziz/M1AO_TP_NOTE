@@ -1,6 +1,6 @@
 # TD Noté
 
-Pour réaliser ce TD noté vous devez corriger le code source qui vous est donné afin que les 4 tests passent.
+Pour réaliser ce TD noté vous devez corriger le code source qui vous est donné afin que les 5 tests passent.
 Les sources du programmes (les .java) doivent ensuite être envoyées à moumaziz@labri.fr sans délai avant la fin de la séance de TD noté.
 
 ## Contexte
