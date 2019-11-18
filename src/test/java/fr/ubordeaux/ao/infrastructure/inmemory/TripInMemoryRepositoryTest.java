@@ -1,4 +1,4 @@
-package ao.infrastructure.inmemory;
+package fr.ubordeaux.ao.infrastructure.inmemory;
 
 import fr.ubordeaux.ao.domain.exception.LocationException;
 import fr.ubordeaux.ao.domain.model.Train;

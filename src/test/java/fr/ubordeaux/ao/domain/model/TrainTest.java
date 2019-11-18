@@ -1,4 +1,4 @@
-package ao.domain.model;
+package fr.ubordeaux.ao.domain.model;
 
 import fr.ubordeaux.ao.domain.exception.LocationException;
 import fr.ubordeaux.ao.domain.model.Train;
